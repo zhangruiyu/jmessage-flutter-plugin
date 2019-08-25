@@ -5,7 +5,7 @@ author: huminios <h380108184@gmail.com>
 homepage: https://www.jiguang.cn
 
 environment:
-  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+  sdk: ">=2.0.0-dev.28.0 <3.0.0"
 
 dependencies:
   platform: ^2.0.0
